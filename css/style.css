@@ -48,10 +48,10 @@ body{
 .logo a.navbar-brand{
     font-size: 45px !important;
     font-family: 'Bangers';
-    color: #db0080;
+    color: #ff7c0c;
 }
 .logo a.navbar-brand:hover{
-    color: #db0080;
+    color: #ff7c0c;
     text-decoration: none;
 }
 .navbar-default .navbar-nav>li>a {
@@ -65,7 +65,7 @@ body{
     padding: 15px 0px 15px 85px;
 }
 .navbar-default .navbar-nav>li>a:hover{
-    color: #db0080;
+    color: #ff7c0c;
     transition: 0.5s all;
 }
 .navbar-default .navbar-nav>li>a:focus{
@@ -120,7 +120,7 @@ input.textbox {
     border: none;
     padding: 5px;
     font-size: 12px;
-    background-color: #DB0080;
+    background-color: #ff7c0c;
     color: #fff;
 	border-radius: 2px 0px 0px 2px;
     position: relative;
@@ -138,7 +138,7 @@ input.sub{
     outline: none;
     border: none;
     background-size: 109px;
-    background-color: #DB0080;
+    background-color: #ff7c0c;
     border-radius: 0px 2px 2px 0px;
 }
 img.wid-p{
@@ -172,7 +172,7 @@ img.wid-p{
 	font-size:40px;
 	text-transform:uppercase;
 	margin-bottom:30px;
-	color: #DB0080;
+	color: #ff7c0c;
 	text-align:center;
 }
 p.hide-text{
@@ -181,7 +181,7 @@ p.hide-text{
 .musi-top-grid h2 {
 	margin: 15px 0;
 	font-size: 20px;
-	color: #DB0080;
+	color: #ff7c0c;
 	font-family: bangers;
 }
 .musi-top-grid  p{
@@ -206,7 +206,7 @@ p.hide-text{
 }
 h2.featurette-heading {
     font-family: bangers;
-    color: #DB0080;
+    color: #ff7c0c;
 }
 .txt-sty1 {
     text-align: left;
@@ -239,7 +239,7 @@ img.img-wid{
 p.track-title{
 	margin: 15px 30px 15px 0px;
 	font-size: 20px;
-	color: #DB0080;
+	color: #ff7c0c;
 	font-family: bangers;
 }
 div#Choco_overlay {
@@ -292,7 +292,7 @@ div#owl-demo1 {
     margin-top: 140px;
 }
 .hover-box {
-    background-color: #DB0080;
+    background-color: #ff7c0c;
     padding: 44px 10px;
     width: 100%;
     position: absolute;
@@ -335,7 +335,7 @@ i.top {
     display: block;
 }
 .map{
-    border-bottom: 4px solid #DB0080;
+    border-bottom: 4px solid #ff7c0c;
 }
 .map iframe{
     width: 100%;
@@ -353,9 +353,9 @@ input.name,input.email{
     width: 49%;
     border: none;
     background: #020202;
-    border-bottom:1px solid #db0080;
-    border-right:1px solid #db0080;
-    border-left:1px solid #db0080;
+    border-bottom:1px solid #ff7c0c;
+    border-right:1px solid #ff7c0c;
+    border-left:1px solid #ff7c0c;
     outline: none;
     padding: 7px;
     color: #fff;
@@ -367,7 +367,7 @@ input.name,input.email{
     width: 98.5%;
     background: #020202;
     outline: none;
-    border: 1px solid #DB0080;
+    border: 1px solid #ff7c0c;
     padding: 7px;
     height: 150px;
     color: #fff;
@@ -375,7 +375,7 @@ input.name,input.email{
     letter-spacing: 0.5px;
 }
 input.sub2 {
-    background-color: #DB0080;
+    background-color: #ff7c0c;
     border: none;
     padding: 5px 20px;
     color: #fff;
@@ -395,7 +395,7 @@ input.sub2:hover{
 a.fot-logo{
     font-size: 20px !important;
     font-family: 'Bangers';
-    color: #db0080;
+    color: #ff7c0c;
     letter-spacing: 1px;
 }
 a.fot-logo:hover{
@@ -406,7 +406,7 @@ a.fot-logo:hover{
     font-size: 13px;
 }
 a.lay{
-    color: #db0080;
+    color: #ff7c0c;
 }
 a.lay:hover{
     text-decoration: none;
@@ -438,12 +438,12 @@ h4.media-heading {
     
 }
 ul.head-rt li a:hover {
-    color: #DB0080;
+    color: #ff7c0c;
     text-decoration: none;
 }
 span.ply{
     margin-right: 15px;
-    color: #db0080;
+    color: #ff7c0c;
     font-size: 18px;
     vertical-align: text-top;
 }
@@ -466,7 +466,7 @@ h3.thum-heading{
 }
 li.album-name a,li.album-name a:hover{
     font-family: 'BenchNine' !important;
-    color:#db0080 !important;
+    color:#ff7c0c !important;
     font-size: 23px !important;
     font-weight: 800 !important;
     margin:0px !important;
@@ -484,7 +484,7 @@ h4.media-heading {
     font-size: 20px;
     font-family: 'BenchNine';
     font-weight: 800;
-    color: #DB0080;
+    color: #ff7c0c;
     text-transform: capitalize;
 }
 li.albm-sng-hdn{
@@ -544,14 +544,14 @@ textarea.txt-box2{
     resize:none;
     outline: none;
     border: none;
-    border:1px solid #db0080;
+    border:1px solid #ff7c0c;
     font-family: bangers;
 }
 input.email2,input.name2{
     width: 100%;
     outline:none;
     padding: 7px;
-    border:1px solid #db0080;
+    border:1px solid #ff7c0c;
     font-family: bangers;
 }
 p.comment-txt{
@@ -705,7 +705,7 @@ ul.social-share li a.ins:hover{
         width: 16px;
         height: 25px;
         background-size: 82px;
-        background-color: #DB0080;
+        background-color: #ff7c0c;
     }
     .flot-stn2 {
         width: 25%;
@@ -960,7 +960,7 @@ ul.social-share li a.ins:hover{
 }
 a.re {
     font-size: 1em;
-    background-color: #DB0080;
+    background-color: #ff7c0c;
     color: #fff;
     padding: 3px 10px;
     display: inline-block;
